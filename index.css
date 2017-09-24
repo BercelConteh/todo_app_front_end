@@ -1,9 +1,25 @@
 html{ font-family: sans-serif;}
-h1 { color:blue} 
-Body {color:red}
-Checkbox{color:green}
+h1 { color:blue
+    
+} 
+body {background-color:green;
+display:block;
+color:red;
+}
 
+image-1{margin-left:450px;
+    
+}
 
+.mytodolist{
+   margin-left: 550px;
+
+    
+}
+
+ul{
+    list-style:none;
+}
 
 
 
